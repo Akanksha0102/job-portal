@@ -12,7 +12,7 @@ const Footer = () => {
           backgroundColor: "#f1f1f1",
         }}
       >
-        <p>© 2024 Sunfire Sensei. All rights reserved.</p>
+        
         
         <p>
           <Link to={"/PrivacyPolicy"}>Privacy Policy </Link> |
